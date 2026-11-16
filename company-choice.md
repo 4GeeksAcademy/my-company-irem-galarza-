@@ -1,1 +1,4 @@
-
+elegí nexova porque me intriga el sector de recursos humanos y como manejan su funcionamiento interno , este ejercio me dará una vista mas amplia de ese funcionamiento. 
+el departamento de marketing , me parace que tien un problema interesante porque no estan teniendo nada de estadisticas y sin datos manejar el area de marketing es bastante complicado , entoces me entuciasma crear un
+dashboard que les permita ver que esta sucediendo en sus redes y verdaderamente saber que contenido funciona con su audiencia y cual no.(likes , comentarios , interacciones)
+el área de operaciones de selección también me interesa un montón porque como una persona que hace nada estaba buscando trabajo me interesaría ver cómo se arma un pipeline asistido con la ai para verdaderamente filtrar perfiles según la necesidad de la búsqueda 
