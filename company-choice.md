@@ -4,3 +4,4 @@ el departamento de marketing , me parace que tien un problema interesante porque
 dashboard que les permita ver que esta sucediendo en sus redes y verdaderamente saber que contenido funciona con su audiencia y cual no.(likes , comentarios , interacciones)
 
 el área de operaciones de selección también me interesa un montón porque como una persona que hace nada estaba buscando trabajo me interesaría ver cómo se arma un pipeline asistido con la ai para verdaderamente filtrar perfiles según la necesidad de la búsqueda 
+  
