@@ -1,7 +1,8 @@
-elegí NEXOVA porque me intriga el sector de recursos humanos y como manejan su funcionamiento interno , este ejercio me dará una vista mas amplia de ese funcionamiento. 
+elegí NEXOVA porque me intriga el sector de recursos humanos y como manejan su funcionamiento interno , este ejercio me dará una vista mas amplia de ese funcionamiento. tambien siento que representa un reto el hecho de trabajar con sectores que conozco pero de los cuales se me esta dando una problematica que solucionar. 
 
 el departamento de marketing , me parace que tien un problema interesante porque no estan teniendo nada de estadisticas y sin datos manejar el area de marketing es bastante complicado , entoces me entuciasma crear un
 dashboard que les permita ver que esta sucediendo en sus redes y verdaderamente saber que contenido funciona con su audiencia y cual no.(likes , comentarios , interacciones)
 
-el área de operaciones de selección también me interesa un montón porque como una persona que hace nada estaba buscando trabajo me interesaría ver cómo se arma un pipeline asistido con la ai para verdaderamente filtrar perfiles según la necesidad de la búsqueda 
-  
+el área de operaciones de selección también me interesa un montón porque como una persona que hace nada estaba buscando trabajo me interesaría ver cómo se arma un pipeline asistido con la ai para verdaderamente filtrar perfiles según la necesidad de la búsqueda
+
+El mayor reto que veo ahora mismo es lograr armar un dashboard ejecutivo unificado con un asistente de IA, porque lo más difícil es conectar los sistemas de todas las áreas y ver cómo manejar y cruzar toda esa información en tiempo real para que el tablero realmente funcione sin errores.Para lograrlo, el agente de IA tendría que conectarse mediante herramientas específicas a los sistemas de cada sector cuando se active ya sea porque llegó la fecha del reporte semanal, porque algún indicador se salió de los límites o porque el CEO le hizo una pregunta directa, la IA identificaría qué categoría de información necesita, cargaría solo los datos exactos de cada área para ser lo más precisa posible y los procesaría para entregar un informe semanal automático, alertas al momento y respuestas exactas según lo que necesite dirección.
